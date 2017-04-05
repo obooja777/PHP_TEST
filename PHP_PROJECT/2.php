@@ -11,7 +11,7 @@ include("..header1.php");
 	if($_POST["id"] === "test") {
 		
 		print "test!!@@";
-		print "test2";
+		print "test2444";
 	}
 	
 ?>
